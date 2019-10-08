@@ -1,0 +1,44 @@
+.container {
+    margin: 0 auto;
+}
+
+.banner {
+    height: 500px;
+    background: url("../img/bg.jpg") no-repeat center / cover;
+}
+
+body {
+    background: #C5D0E6;
+}
+
+.col-6 {
+    padding: 0;
+}
+
+footer {
+    height: 500px;
+    background: #343A40;
+}
+ main .container {
+     margin: 50px auto 50px;
+ }
+
+ footer .container {
+     padding-top: 50px;
+ }
+
+ .card, .list-group {
+     margin-bottom: 20px;
+ }
+
+footer div {
+     margin: 0 auto;
+ }
+
+ .logo-img {
+     width: 80px;
+ }
+
+ footer p {
+     margin-top: 10px;
+ }
